@@ -2,6 +2,8 @@ link repository:
 
 https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/repo.json
 
--selamat mencoba
+kalau mau update sendiri, silahkan forks
 
-thanks for 𝙥𝙮𝙦24
+
+-selamat mencoba.
+                               thanks for 𝙥𝙮𝙦24
