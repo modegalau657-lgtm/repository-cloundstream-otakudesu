@@ -1,11 +1,5 @@
 ![RUN](https://telegra.ph/file/39890dfb899f4a943e626.jpg)
 
-<div align="center">
-
-> Asynchronous Python Wrapper For EgyBest-API.
-
-
-
 
 <div align="center">
 
