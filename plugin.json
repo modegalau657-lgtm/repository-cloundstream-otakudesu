@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/Otakudesu.cs3",
+    "status": 1,
+    "version": 13,
+    "apiVersion": 1,
+    "name": "Otakudesu",
+    "internalName": "Otakudesu",
+    "authors": ["Hexated"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie","Anime","OVA"],
+    "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/icon.png",
+    "description": "AnimeSail source"
+  }
+]
