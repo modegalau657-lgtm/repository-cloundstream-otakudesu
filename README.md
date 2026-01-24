@@ -41,3 +41,18 @@
 
 </div>
 
+Cara Menggunakan
+Buka aplikasi CloudStream.
+Buka menu "Ekstensi".
+Klik tombol "Tambahkan Repositori".
+Masukkan URL repositori IndoStream: https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/repo.json
+Klik "Tambahkan".
+Ekstensi yang tersedia akan muncul di daftar.
+Pilih ekstensi yang ingin Anda instal dan klik "Instal".
+Membangun Proyek
+Untuk membangun proyek ini, Anda memerlukan Gradle yang terinstal. Anda dapat membangun proyek menggunakan perintah berikut:
+
+sh ./gradlew build
+
+Kontribusi
+Kami menyambut baik kontribusi dari komunitas! Jika Anda ingin menambahkan ekstensi baru, memperbaiki bug, atau meningkatkan dokumentasi, silakan buat pull request atau buka issue.
