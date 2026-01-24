@@ -22,3 +22,5 @@ https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otak
 
 -𝑠𝑒𝑙𝑎𝑚𝑎𝑡 𝑚𝑒𝑛𝑐𝑜𝑏𝑎.☕︎
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝒕𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝙥𝙮𝙦24
+
+![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
