@@ -6,7 +6,7 @@
     "apiVersion": 1,
     "name": "Otakudesu",
     "internalName": "Otakudesu",
-    "authors": ["Hexated and pyq"],
+    "authors": ["Hexated and Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie","Anime","OVA"],
     "description": "ukuran 23,97KB"
@@ -23,7 +23,7 @@
     "apiVersion": 1,
     "name": "Samehadaku",
     "internalName": "Samehadaku",
-    "authors": ["Hexated and pyq"],
+    "authors": ["Hexated and Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie","Anime","OVA"],
     "description": "samehadaku"
