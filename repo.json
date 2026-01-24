@@ -1,1 +1,9 @@
-p
+
+{
+  "name": "satu bangsa",
+  "description": "Repo ekstensi CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/modegalau657-lgtm/zeeorepo/main/plugin.json"
+  ]
+}
