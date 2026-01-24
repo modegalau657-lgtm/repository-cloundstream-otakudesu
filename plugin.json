@@ -1,15 +1,20 @@
 [
-  {
-    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/Otakudesu.cs3",
-    "status": 1,
-    "version": 13,
-    "apiVersion": 1,
-    "name": "Otakudesu",
-    "internalName": "Otakudesu",
-    "authors": ["Hexated"],
-    "language": "id",
-    "tvTypes": ["AnimeMovie","Anime","OVA"],
-    "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/icon.png",
-    "description": "AnimeSail source"
-  }
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 22966,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 16,
+        "internalName": "Otakudesu",
+        "url": "https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/Otakudesu.cs3",
+        "name": "Otakudesu"
 ]
