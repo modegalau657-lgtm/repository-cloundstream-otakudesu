@@ -1,3 +1,16 @@
+<div align="center">
+
+# *Otakudesu-Extensions*
+
+##
+
+<!-- Badges -->
+<p>
+
+
+
+
+
 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙡𝙞𝙣𝙠:
 
 https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/repo.json
