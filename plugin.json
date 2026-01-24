@@ -12,3 +12,17 @@
     "description": "ukuran 23,97KB"
   }
 ]
+[
+  {
+    "url": "https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/Otakudesu.cs3",
+    "status": 1,
+    "version": 16,
+    "apiVersion": 1,
+    "name": "Otakudesu",
+    "internalName": "Otakudesu",
+    "authors": ["Hexated and pyq"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie","Anime","OVA"],
+    "description": "ukuran 23,97KB"
+  }
+]
