@@ -6,5 +6,4 @@ kalau mau update sendiri, silahkan forks
 
 
 -selamat mencoba.
-
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤthanks for 𝙥𝙮𝙦24
