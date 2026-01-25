@@ -15,7 +15,7 @@
 
 https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/repo.json
 
-⚠︎ kalau mau u͟p͟d͟a͟t͟e͟ sendiri, silahkan forks
+⚠︎ kalau mau u͟p͟d͟a͟t͟e͟ sendiri, silahkan fork
    lalu ganti versi
 
 
