@@ -23,3 +23,4 @@ https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otak
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ𝒕𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 Alivsc
 
 ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
+![MikkuChan](https://raw.githubusercontent.com/fadzdigital/Nekobox/refs/heads/main/images/favicon.png)
