@@ -6,10 +6,10 @@
     "apiVersion": 1,
     "name": "Otakudesu",
     "internalName": "Otakudesu",
-    "authors": ["Hexated and Alivsc"],
+    "authors": ["Sofie, Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie","Anime","OVA"],
     "fileSize": 23970,
-    "description": "ukuran 23,97KB"
+    "description": "plugin otakudesu"
   }
 ]
