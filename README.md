@@ -7,9 +7,15 @@
 <!-- Badges -->
 <p>
 
+---
 
+Berikut adalah keterangan extension:
 
+| Nama Ekstensi | Status |
+| ------------- | ------ |
+| otakudesu   | jalan |
 
+---
 
 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮 𝙡𝙞𝙣𝙠:
 
