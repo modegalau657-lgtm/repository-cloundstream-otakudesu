@@ -3,6 +3,7 @@
   "name": "Alivsc",
   "description": "Repo ekstensi CloudStream",
   "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/modegalau657-lgtm/Picture/main/images/Evan%20D.%20Sherden.png"
   "pluginLists": [
     "https://raw.githubusercontent.com/modegalau657-lgtm/repository-cloundstream-otakudesu/main/plugin.json"
   ]
